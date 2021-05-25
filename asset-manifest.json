@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TCoffeeShop/static/css/main.ac3ab804.chunk.css",
+    "main.js": "/TCoffeeShop/static/js/main.b513604a.chunk.js",
+    "main.js.map": "/TCoffeeShop/static/js/main.b513604a.chunk.js.map",
+    "runtime-main.js": "/TCoffeeShop/static/js/runtime-main.cf26d2e8.js",
+    "runtime-main.js.map": "/TCoffeeShop/static/js/runtime-main.cf26d2e8.js.map",
+    "static/js/2.87259902.chunk.js": "/TCoffeeShop/static/js/2.87259902.chunk.js",
+    "static/js/2.87259902.chunk.js.map": "/TCoffeeShop/static/js/2.87259902.chunk.js.map",
+    "static/js/3.7f918e69.chunk.js": "/TCoffeeShop/static/js/3.7f918e69.chunk.js",
+    "static/js/3.7f918e69.chunk.js.map": "/TCoffeeShop/static/js/3.7f918e69.chunk.js.map",
+    "index.html": "/TCoffeeShop/index.html",
+    "static/css/main.ac3ab804.chunk.css.map": "/TCoffeeShop/static/css/main.ac3ab804.chunk.css.map",
+    "static/js/2.87259902.chunk.js.LICENSE.txt": "/TCoffeeShop/static/js/2.87259902.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/TCoffeeShop/static/media/coffeeshopimg.5af0e286.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf26d2e8.js",
+    "static/js/2.87259902.chunk.js",
+    "static/css/main.ac3ab804.chunk.css",
+    "static/js/main.b513604a.chunk.js"
+  ]
+}
